@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EbraheemELdahan
 - 👀 I’m interested in web Development and machine learning
-- 🌱 I’m currently learning full-stack web development using .net
+- 🌱 I’m currently a . NET Developer at https://repoteq.com/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...ebraheem.dahan97@gmail.com
 
